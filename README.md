@@ -16,3 +16,17 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 - Since the r^2 value is 71.5%, that means that the model will predict mpg values correctly about 71.5% of the time. This would be mildly effective.
 
+## Summary Statistics on Suspension Coils
+
+Total Summary Table:
+
+<img width="338" alt="Screen Shot 2021-11-21 at 7 21 03 PM" src="https://user-images.githubusercontent.com/88108455/142785068-6400cca4-26ba-47de-b0ff-fcb320e9813b.png">
+
+Lot Summary Table:
+
+<img width="489" alt="Screen Shot 2021-11-21 at 7 22 01 PM" src="https://user-images.githubusercontent.com/88108455/142785101-7b38460b-9be4-472d-88d7-450a273c8b00.png">
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+- I think the current manufacturing data meets the design specification for Lot 1 and Lot 2. They have an extremely similar median and mean. Lot 3 exceeds the specifications due to its variance.
+
